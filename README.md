@@ -1,4 +1,5 @@
 ### Hi there 👋
+🌱 I’m currently learning AI.
 
 <!--
 **GoX2Maker/GoX2Maker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
